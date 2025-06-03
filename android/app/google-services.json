@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070998759706",
+    "project_id": "itidayone",
+    "storage_bucket": "itidayone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070998759706:android:945849abb5ef91d9cfa4a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasedayone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB25sGqBDC2E6qDDqcHOO0MgaEVm-_hgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
